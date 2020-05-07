@@ -6,3 +6,6 @@ https://snande.github.io/Covid-19-in-India/animation_Satish.html
 
 For future prediction of total confirmed cases in India visit: 
 https://snande.github.io/Covid-19-in-India/prediction_Satish.html
+
+For graph showing the testing for Covid-19 done by various states in India visit:
+https://snande.github.io/Covid-19-in-India/tests_Satish.html
